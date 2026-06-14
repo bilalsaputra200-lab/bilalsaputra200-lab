@@ -55,8 +55,8 @@ Saya adalah seorang profesional IT (S.Kom) dari STMIK IKMI Cirebon yang berfokus
 ### 📫 Mari Terhubung
 
 <p align="center">
-  <a href="https://linkedin.com/in/bilalsaputra">
-    <img src="[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn](https://www.linkedin.com/in/bilal-saputra-s-kom-12465338b/)" />
+  <a href="https://www.linkedin.com/in/bilal-saputra-s-kom-12465338b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:bilalsaputra200@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
