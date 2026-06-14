@@ -1,18 +1,21 @@
+<!-- Animasi Typing Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=534AB7¢er=true&vCenter=true&width=435&lines=Halo%2C+Saya+Bilal+Saputra+%F0%9F%91%8B;IT+Professional+%7C+Web+Developer;Java+%26+PHP+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=534AB7&center=true&vCenter=true&width=500&lines=Halo%2C+saya+Bilal+Saputra+%F0%9F%91%8B;IT+Professional+%7C+Web+Developer;Membangun+solusi+nyata+lewat+kode" alt="Typing SVG" />
 </h1>
 
+<h3 align="center">💻 IT Professional | 🌐 Web Developer | ☕ Java Enthusiast</h3>
+
+<!-- Profile View Counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bilalsaputra200-lab&label=Profile+Views&color=534AB7&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=bilalsaputra200-lab&label=Profile+Views&color=534AB7&style=flat-square" />
 </p>
 
 ---
 
 ### 🧑‍💻 Tentang Saya
 
-> Seorang profesional IT yang berfokus pada pengembangan web dan aplikasi berbasis Java.
-> Saya percaya bahwa kode yang baik bukan hanya yang bekerja — tapi yang mudah dipahami dan dipelihara.
-> **Selalu belajar, selalu berkembang.**
+> Seorang profesional IT yang berfokus pada pengembangan web.
+> Memiliki passion dalam membangun aplikasi yang fungsional, efisien, dan berdampak nyata.
 
 ---
 
@@ -29,23 +32,25 @@
 
 ---
 
+### 🐍 Animasi Kontribusi
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bilalsaputra200-lab/bilalsaputra200-lab/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bilalsaputra200-lab/bilalsaputra200-lab/output/github-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/bilalsaputra200-lab/bilalsaputra200-lab/output/github-snake.svg" />
+</picture>
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bilalsaputra200-lab&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilalsaputra200-lab&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bilalsaputra200-lab&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bilalsaputra200-lab&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bilalsaputra200-lab&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilalsaputra200-lab&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -55,11 +60,8 @@
 <p align="center">
   <a href="https://linkedin.com/in/bilalsaputra"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:bilalsaputra200@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://instagram.com/bilalsaputra200"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
 ---
 
-<p align="center">
-  <i>"Code is not just syntax — it's a solution that changes lives."</i>
-</p>
+<p align="center">⚡ <em>"Code is not just syntax — it's a solution."</em></p>
